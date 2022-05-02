@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/*Global View*/
+img, object{
+	max-height: 95%;
+	max-width: 95%;
+}
+
+/*Tablet View*/
+@media (min-width: 401px) and (max-width: 768px){
+}
+
+/*Mobile View*/
+@media (max-width: 400px){
+}
+.logo {
+}
